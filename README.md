@@ -1,4 +1,4 @@
-# Generated Masked Face Recognition Datasets
+# Generated Masked Face Datasets
 
 This repository is used to contribute simulated masked face dataset. <br>
 All datasets can be accessed through google drive: https://drive.google.com/drive/folders/1QCydTa_4bTNSGKce8gVnQBMwzeLG_rzk?usp=sharing <br>
